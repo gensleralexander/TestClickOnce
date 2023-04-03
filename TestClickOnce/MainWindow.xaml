@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:TestClickOnce"
         mc:Ignorable="d"
-        Title="MainWindow" Height="50" Width="200">
+        Title="MainWindow" Height="100" Width="200">
     <Grid>
-        <TextBlock Text="Version 1.0"/>
+        <TextBlock Text="Version 1.1"/>
     </Grid>
 </Window>
